@@ -10,13 +10,13 @@ MIRACLE (Microsatellite Instability detection with RNA-seq by Analyzing Comparis
 ## Authors
   * Jin-Wook Choi (argon502@snu.ac.kr)
   * Jin-Ok Lee (xuanhaoyang@stu.xjtu.edu.cn)
-  * Sejoon Lee (xfyang@xjtu.edu.cn)
-  * Kai Ye (kaiye@xjtu.edu.cn)
+  * Sejoon Lee (sejoonlee@snubh.org)
+ 
  ---
 ## License
 
 ---
-## How to install MIRACLE?
+## How to use MIRACLE?
 
 ### Install with pip3   
   ```shell script
@@ -25,15 +25,15 @@ MIRACLE (Microsatellite Instability detection with RNA-seq by Analyzing Comparis
     git clone https://github.com/xjtu-omics/msisensor-rna.git
     pip3 install .
   ```
-
---- 
-## How to use MIRACLE? 
-
 ### Usage:   
    ```shell script
     MIRACLE <command> [options]
 ```
-
+### Options:
+  ```
+    * Required arguments
+    -i 
+  ```
 ---
 ## Input and output
 
@@ -82,4 +82,4 @@ MIRACLE (Microsatellite Instability detection with RNA-seq by Analyzing Comparis
 
 ## Contact
 
-If you have any questions, please contact with Peng Jia (pengjia@stu.xjtu.edu.cn) or Kai Ye (kaiye@xjtu.edu.cn).
+If you have any questions, please contact with Jin-Wook Choi (argon502@snu.ac.kr).
