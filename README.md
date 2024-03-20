@@ -20,7 +20,7 @@ MIRACLE (Microsatellite Instability detection with RNA-seq by Analyzing Comparis
 
 ### Install with pip3   
   ```shell script
-    pip install --index-url https://test.pypi.org/simple/ MIRACLE
+    pip install MIRACLEpy
   ```
 ### Usage:   
    ```shell script
