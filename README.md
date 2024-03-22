@@ -1,4 +1,4 @@
-# MIRACLEpy
+# MIRACLE
 
 MIRACLE (Microsatellite Instability detection with RNA-seq by Analyzing Comparison of Length Extensively) is a tool designed for detecting microsatellite instability (MSI) using RNA-seq data by comparing length variation. The steps of MIRACLE consist of three parts.
 * In the first step, it measures the length of microsatellites in the tumor sample BAM file inputted.
@@ -28,13 +28,6 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
 ---
 ## How to use MIRACLE?
 
